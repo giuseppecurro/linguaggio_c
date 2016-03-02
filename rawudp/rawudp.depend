@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1452889388 source:/home/hp/Documenti/programmazione/linguaggio_c/rawudp/main.c
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<errno.h>
+	<netinet/udp.h>
+	<netinet/ip.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453918507 source:/home/hp/Documenti/programmazione/linguaggio_c/prova_stringhe/main.c
+	<stdio.h>
+	<stdlib.h>
+

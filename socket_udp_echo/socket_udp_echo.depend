@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452424841 source:/home/hp/Documenti/programmazione/linguaggio_c/socket_udp_echo/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+
