@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453806084 source:/home/doc/Documenti/two_lists/main.cpp
+	<iostream>
+	<string>
+
+1453827953 source:/home/hp/Documenti/programmazione/linguaggio_c/two_lists/main.cpp
+	<iostream>
+	<string>
+
