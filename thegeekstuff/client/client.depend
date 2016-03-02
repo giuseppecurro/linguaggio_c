@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1456520128 source:/home/tindara/Documenti/programmazione/linguaggio_c/thegeekstuff/client/main.cpp
+	<sys/socket.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<arpa/inet.h>
+
