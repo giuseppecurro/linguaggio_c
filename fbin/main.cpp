@@ -1,5 +1,5 @@
 //GESTIONE FILE BINARIO DI RECORD
-
+//modificato in b15
 #include <iostream>
 #include <fstream>
 #include <string>
