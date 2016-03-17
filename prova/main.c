@@ -1,6 +1,7 @@
 
 
 //http://euklid.mi.uni-koeln.de/c/mirror/mickey.lcsc.edu/%257Esteve/c16.html
+//
 #include <stdio.h>
 
 
