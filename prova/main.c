@@ -2,6 +2,7 @@
 
 //http://euklid.mi.uni-koeln.de/c/mirror/mickey.lcsc.edu/%257Esteve/c16.html
 //siamo  in quinta a
+//e sono le 10 e 30
 #include <stdio.h>
 
 
